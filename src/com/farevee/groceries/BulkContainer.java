@@ -61,7 +61,7 @@ public class BulkContainer
           {
             return true;
           } // if the two objects have the same fields
-      } // if the two objects of of the same type
+      } // if the two objects are of the same type
     return false;
   } // equals (Object)
 } // Class BulkContainer
