@@ -39,8 +39,7 @@ public class Grid
   {
     if ((height <= 0) || (width <= 0))
       {
-        throw new Exception(
-                            "Please choose appropriate values of width and height");
+        throw new Exception("Please choose appropriate values of width and height");
       }
     this.width = width;
     this.height = height;
